@@ -8,5 +8,5 @@ $$
 \zeta(atmosphere) = \int_{weather}^{climate} t^{init}e^{projection}dt\
 $$
 
-You should also see our recent [**article**](https://doi.org/10.1016/j.uclim.2022.101316) on urbanization-precipitation interaction in Ankara.
+You should also see our recent papers on urbanization-precipitation interaction in [**Ankara**](https://doi.org/10.1016/j.uclim.2022.101316) and [**Istanbul**](https://doi.org/10.1016/j.atmosres.2023.106681).
 
